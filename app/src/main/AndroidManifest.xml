@@ -10,26 +10,34 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Design">
         <activity
-            android:name=".OtpActivity"
-            android:exported="false" />
-        <activity
-            android:name=".RegisterActivity"
-            android:exported="false" />
-        <activity
-            android:name=".BoardingActivity"
-            android:exported="false" />
-        <activity
-            android:name=".WelcomeActivity"
+            android:name="com.Activities.UserNameActivity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
+
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
+
+
         <activity
-            android:name=".MainActivity"
-            android:exported="true" />
+            android:name="com.Activities.OtpActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.Activities.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.Activities.BoardingActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.Activities.WelcomeActivity"
+            android:exported="false"></activity>
+        <activity
+            android:name="com.Activities.MainActivity"
+            android:exported="false" />
 
         <meta-data
             android:name="preloaded_fonts"

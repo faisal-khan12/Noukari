@@ -5,4 +5,10 @@
     <string name="info3">We have a dedicated team that double-checks every job and post for you</string>
     <string name="registertv">For verification perpose OTP will Be send\nto this number</string>
     <string name="otp">Please entre 6 digit code send to your\nmobile number +91******4071</string>
+    <string name="otp_authentication">OTP Authentication</string>
+    <string name="usernameAvailable">karan0057 is available</string>
+    <string name="rule2">only lowercase alphabets, and dot(.) symbols allowed.</string>
+    <string name="rule3">consecutive dot(.)are not allowed.example:abc</string>
+    <string name="rule1">must be more than 4 and less than 20 letters.</string>
+
 </resources>
