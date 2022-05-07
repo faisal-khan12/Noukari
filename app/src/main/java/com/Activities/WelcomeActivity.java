@@ -1,14 +1,11 @@
-package com.dotaustere.design;
+package com.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.viewpager.widget.ViewPager;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Toast;
 
-import com.SlideViewPagerAdapter;
 import com.dotaustere.design.databinding.ActivityWelcomeBinding;
 
 public class WelcomeActivity extends AppCompatActivity {

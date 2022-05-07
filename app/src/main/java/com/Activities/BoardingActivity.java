@@ -1,4 +1,4 @@
-package com.dotaustere.design;
+package com.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
@@ -7,9 +7,9 @@ import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Toast;
 
 import com.SlideViewPagerAdapter;
+import com.dotaustere.design.R;
 import com.dotaustere.design.databinding.ActivityBoardingBinding;
 import com.tbuonomo.viewpagerdotsindicator.DotsIndicator;
 

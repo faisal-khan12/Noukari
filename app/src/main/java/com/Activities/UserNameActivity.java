@@ -1,14 +1,16 @@
-package com.dotaustere.design;
+package com.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class OtpActivity extends AppCompatActivity {
+import com.dotaustere.design.R;
+
+public class UserNameActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_otp);
+        setContentView(R.layout.activity_user_name);
     }
 }

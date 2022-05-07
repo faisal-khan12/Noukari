@@ -1,4 +1,4 @@
-package com.dotaustere.design;
+package com.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.SlideViewPagerAdapter;
+import com.dotaustere.design.R;
 
 public class MainActivity extends AppCompatActivity {
 
