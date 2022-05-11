@@ -40,6 +40,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     implementation 'com.airbnb.android:lottie:5.0.3'
     implementation 'com.github.rajputmukesh748:MukeshOtpView:1.0.0'
-
     implementation 'com.tbuonomo:dotsindicator:4.2'
+    implementation 'io.github.vicmikhailau:MaskedEditText:4.0.7'
+    implementation 'com.github.santalu:maskara:1.0.0'
+
 }

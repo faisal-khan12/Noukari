@@ -9,8 +9,8 @@
 
 
     <ImageView
-        android:id="@+id/imageView7"
-        android:layout_width="84dp"
+        android:id="@+id/backArrow"
+        android:layout_width="60dp"
         android:layout_height="60dp"
         android:padding="10dp"
         android:layout_marginStart="8dp"
@@ -183,7 +183,7 @@
             app:srcCompat="@drawable/ic_round" />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/nextBtn"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
